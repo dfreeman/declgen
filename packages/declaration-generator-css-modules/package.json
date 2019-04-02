@@ -1,0 +1,10 @@
+{
+  "name": "declaration-generator-css-modules",
+  "private": true,
+  "version": "1.0.0",
+  "keywords": [
+    "ember-addon",
+    "ember-cli-typescript-declaration-generator"
+  ],
+  "dependencies": {}
+}

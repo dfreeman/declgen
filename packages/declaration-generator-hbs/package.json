@@ -1,0 +1,13 @@
+{
+  "name": "declaration-generator-hbs",
+  "private": true,
+  "version": "1.0.0",
+  "keywords": [
+    "ember-addon",
+    "ember-cli-typescript-declaration-generator"
+  ],
+  "dependencies": {
+    "broccoli-stew": "^2.0.1",
+    "common-tags": "^1.8.0"
+  }
+}

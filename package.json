@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "workspaces": [
+    "packages/declaration-generator-config",
+    "packages/declaration-generator-css-modules",
+    "packages/declaration-generator-hbs",
+    "packages/host-app"
+  ]
+}
